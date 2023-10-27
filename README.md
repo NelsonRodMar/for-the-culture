@@ -2,6 +2,9 @@
 
 This project is a simple NFT Omnichain to all remember the crypto culture and mostly SBF and FTX.
 
+## Production Deployement
+
+Base Address : [0xb1379c5041c5ca4c222388429ed5efa22c9bbde7](https://basescan.org/address/0xb1379c5041c5ca4c222388429ed5efa22c9bbde7)
 
 
 ## Usage

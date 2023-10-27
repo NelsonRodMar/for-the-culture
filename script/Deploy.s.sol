@@ -12,7 +12,7 @@ contract Deploy is Script {
         vm.startBroadcast();
         ForTheCulture forTheCulture = new ForTheCulture(
             150000, // _minGasToTransfer
-            0x000000000000000000000000000000000000dEaD //address _layerZeroEndpoint
+            0xb6319cC6c8c27A8F5dAF0dD3DF91EA35C4720dd7 //address _layerZeroEndpoint
         );
         console.log("ForTheCulture address: ", address(forTheCulture));
         vm.stopBroadcast();
