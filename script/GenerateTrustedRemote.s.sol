@@ -7,8 +7,7 @@ import {console2 as console} from "forge-std/console2.sol";
 contract GenerateTrustedRemote is Script {
     // Dead Address 0x000000000000000000000000000000000000dEaD
     address chain1 = 0xB1379C5041c5cA4C222388429Ed5EFA22C9BBdE7; // Base
-    address chain2;
-    //
+    address chain2 = 0x3374Eb14b0293D51756f6865a7715D7699b53693; // Scroll
     address receiver = 0x770569f85346B971114e11E4Bb5F7aC776673469;
 
     function run() public view {
